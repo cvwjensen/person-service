@@ -1,4 +1,4 @@
-package dk.lundogbendsen.springbootcourse.api.personservice.service.exceptions;
+package org.example.personservice.service.exceptions;
 
 public class PersonCreateException extends RuntimeException {
     public PersonCreateException() {

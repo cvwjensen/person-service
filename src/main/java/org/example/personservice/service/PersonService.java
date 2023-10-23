@@ -1,10 +1,10 @@
-package dk.lundogbendsen.springbootcourse.api.personservice.service;
+package org.example.personservice.service;
 
 
-import dk.lundogbendsen.springbootcourse.api.personservice.model.Person;
-import dk.lundogbendsen.springbootcourse.api.personservice.service.exceptions.PersonCreateException;
-import dk.lundogbendsen.springbootcourse.api.personservice.service.exceptions.PersonNotFoundException;
-import dk.lundogbendsen.springbootcourse.api.personservice.service.exceptions.PersonUpdateException;
+import org.example.personservice.model.Person;
+import org.example.personservice.service.exceptions.PersonCreateException;
+import org.example.personservice.service.exceptions.PersonNotFoundException;
+import org.example.personservice.service.exceptions.PersonUpdateException;
 
 import java.util.ArrayList;
 import java.util.HashMap;

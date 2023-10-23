@@ -1,4 +1,4 @@
-package dk.lundogbendsen.springbootcourse.api.personservice.model;
+package org.example.personservice.model;
 
 
 import lombok.AllArgsConstructor;
